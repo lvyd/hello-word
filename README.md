@@ -1,2 +1,3 @@
 # hello-word
-Just other repository
+Hi Humans!
+It's just greeting.
