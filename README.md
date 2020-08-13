@@ -1,3 +1,3 @@
 # hello-word
 Hi Humans!
-It's just greeting.
+It's just a repository。
